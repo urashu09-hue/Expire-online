@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
+  "showDialog": true,
+  "latestVersionCode": 8,
+  "latestVersionName": "8.0",
   "title": "Join Update AVAILABLEl",
-  "message": "Join And Download New Aimkill Apk.",
+  "message": "Join And Download New Aimkill Apk",
   "UpdateButtonText": "Update Download",
   "UpdateButtonUrl": "https://t.me/+f7seUtjANTI5Y2I1"
 }
